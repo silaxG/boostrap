@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.titulo {
+    height: 100%;
+    color: black;
+    background-color: green;
+}
+
+.container {
+    display: flex;
+}
+
+.col {
+    height: 100vh; /* view height */
+    width: 16vw;
+}
+#col1 { 
+    background-color: burlywood;
+}
+
+#col2 {
+   
+    background-color: brown;
+}
+
+#col3 {
+   
+    background-color: aquamarine;
+}
+
+#col4 {
+   
+    background-color: aqua;
+}
+
+#col5 {
+    
+    background-color: azure;
+}
+
+#col6 {
+   
+    background-color: rgb(0, 0, 255);
+}
